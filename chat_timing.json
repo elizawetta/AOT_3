@@ -1,0 +1,41 @@
+{
+  "measurement": "Approximate current-chat batch wall time including tools and file handling; no isolated requests; prior context retained. Token counts are reconstructed visible content estimates, not billed usage.",
+  "records": [
+    {
+      "method": "LLM zero-shot",
+      "dataset": "test",
+      "count": 500,
+      "start_utc": "2026-10-12T20:34:51Z",
+      "end_utc": "2026-10-12T20:35:23Z",
+      "seconds": 32,
+      "predictions_file": "test_zero_shot_timed.json"
+    },
+    {
+      "method": "LLM zero-shot",
+      "dataset": "stress",
+      "count": 100,
+      "start_utc": "2026-10-12T20:35:23Z",
+      "end_utc": "2026-10-12T20:35:32Z",
+      "seconds": 9,
+      "predictions_file": "stress_zero_shot_timed.json"
+    },
+    {
+      "method": "LLM few-shot",
+      "dataset": "test",
+      "count": 500,
+      "start_utc": "2026-10-12T20:35:32Z",
+      "end_utc": "2026-10-12T20:35:47Z",
+      "seconds": 15,
+      "predictions_file": "test_few_shot_timed.json"
+    },
+    {
+      "method": "LLM few-shot",
+      "dataset": "stress",
+      "count": 100,
+      "start_utc": "2026-10-12T20:35:47Z",
+      "end_utc": "2026-10-12T20:35:55Z",
+      "seconds": 8,
+      "predictions_file": "stress_few_shot_timed.json"
+    }
+  ]
+}

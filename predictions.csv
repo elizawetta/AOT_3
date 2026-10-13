@@ -1,0 +1,894 @@
+dataset,id,text,label,baseline,tfidf_logreg,llm_zero_shot,llm_few_shot
+test,1,#iphone6plus - #лопатина Протестировать бы его на сгибаемость 😈😃 @ Агентство по страхованию вкладов ,neutral,neutral,neutral,neutral,neutral
+test,2,никогда не забуду эти сутки!!! они были самые лучшие,positive,neutral,positive,positive,positive
+test,3,tema: История в мнемонике,neutral,neutral,neutral,neutral,neutral
+test,4,Хах.Фагот!!!))),positive,neutral,neutral,positive,positive
+test,5,"Я хочу, чтоб история нашей любви бегала по дому*****",positive,neutral,positive,positive,positive
+test,6,Музыка моей молодости :D,positive,neutral,neutral,positive,positive
+test,7,"Бог не дает вам людей, которых вы хотите.
+Он дает вам людей, в которых вы
+нуждаетесь. Они причиняют вам боль,
+любят, учат вас, ломают вас, чтобы
+превратить вас в того, кем вы должны быть.",neutral,neutral,neutral,neutral,neutral
+test,8,"Как говорится, люди смеются, чтобы не заплакать....",negative,neutral,neutral,negative,negative
+test,9,"[club37699760|Голоса даром)], кагда уже прийдут",neutral,neutral,neutral,neutral,neutral
+test,10,Пластиковый снег,neutral,neutral,neutral,neutral,neutral
+test,11,"Гарри Поттера сняли в стиле ""арт-хаус"" ) а у Рэдклиффа оч волосатая нешестнадцатилентяя грудь. Фильм напомнил ""как я провел этим летом"". кароче я в шоке от этих маркетологов киношных)",neutral,neutral,neutral,negative,negative
+test,12,"Собраться, решиться, и вынести всех,
+Сокрушить, растоптать, растерзать, 
+И в спорте, и в жизни почёт и успех 
+У того, кто рождён побеждать! ",neutral,neutral,neutral,positive,neutral
+test,13,"таааааааааааааак
+
+приму в дар ВИРУС КАРД))))
+
+вот и знаю, что хочу на новый год хД",neutral,neutral,positive,neutral,neutral
+test,14,а сегодня пойдем гулять????,neutral,neutral,positive,neutral,neutral
+test,15,Ужасно  как я мечтаю о порядке у себя на кухне))),neutral,neutral,neutral,neutral,neutral
+test,16,ЗАВТРА ВМЕСТО БИОЛОГИИ БУДЕТ ХИМИЯ,neutral,neutral,neutral,neutral,neutral
+test,17,"С местными!) @ Новый Уренгой, Центр",neutral,neutral,neutral,neutral,neutral
+test,18,Мама африка блять)),neutral,neutral,positive,neutral,neutral
+test,19,А ты хайп?,neutral,neutral,neutral,neutral,neutral
+test,20,ооооооо тебя тоже поперла моя песенка????,neutral,neutral,positive,positive,neutral
+test,21,"Аскар, привет! С помощью этого подарка сможешь БЕСПЛАТНО получить футболку тут:    
+ 😃 👕 🎁 vk.com/app3051970 👚 👕 🎁",neutral,neutral,neutral,neutral,neutral
+test,22,"Звездабол он, у него 15 октября др)",neutral,neutral,neutral,negative,negative
+test,23,"""царя распни!""-кричал НАРОД,-""а лучше отпусти нам из темницы вора и разбойника Варраву""...этот библейский сюжет вам ничего не напоминает?",neutral,neutral,neutral,neutral,neutral
+test,24,"Любовь это такое чуство,катое тежело понять потомушто мы даже и не знаем  что это насамам деле слова ЛЮБОВЬ (((((((((((((((((((",negative,neutral,neutral,negative,negative
+test,25,"Лучшие вещи в жизни — бесплатны: объятия, улыбки, друзья, поцелуи, семья, сон, любовь, смех и хорошее настроение!",positive,neutral,neutral,positive,positive
+test,26,Гггг...есть)))),positive,neutral,positive,positive,positive
+test,27,Ееееее!!!)),positive,neutral,neutral,positive,positive
+test,28,"Вот и настало время, когда у девушек из джинс торчат не стринги, а теплые черные колготки..",neutral,neutral,neutral,neutral,neutral
+test,29,Находские беспризорники,neutral,neutral,neutral,neutral,neutral
+test,30,"уже ценил? Снимали прям то место, где мы как раз были)",neutral,neutral,neutral,neutral,neutral
+test,31,"Арнольд Шварцнеггер уникальный человек-он может 5 дней не спать,а потом взять и выжать с груди 350 кг.",neutral,neutral,neutral,positive,neutral
+test,32,Мастер класс по изготовлению поздравительных открытое-ручная работа!!!)),neutral,neutral,neutral,neutral,neutral
+test,33,для нашего отдела)))понедельник),neutral,neutral,neutral,neutral,neutral
+test,34,"Ребята, посоветуйте копирайтера, для написания статьи.",neutral,neutral,neutral,neutral,neutral
+test,35,Ты чегооо?..,neutral,neutral,neutral,neutral,neutral
+test,36,Ждите своих мальчиков...,neutral,neutral,neutral,neutral,neutral
+test,37,"Стоит или не стоит... все
+зависит от вас... куда
+ударение поставите)",neutral,neutral,neutral,neutral,neutral
+test,38,Готовим кушать!!!! Яхххххуууууу)))),positive,neutral,neutral,positive,positive
+test,39,"Ну ты понял,да?))))",neutral,neutral,positive,neutral,neutral
+test,40,ты чоооо-о не поздравил меня с этим великим празднкиом????,neutral,neutral,neutral,neutral,neutral
+test,41,если у вас выхватили из рук телефон,neutral,neutral,neutral,neutral,neutral
+test,42,Под чем был автор?),neutral,neutral,neutral,neutral,neutral
+test,43,"Полсрока отмотал. Откинусь через 9 месяцев. Эй, новый начальник, даешь УДО или амнистию!",neutral,neutral,neutral,neutral,neutral
+test,44,Заебали...хожу в чём нравится и не ебёт!!!,negative,neutral,neutral,negative,negative
+test,45,Вот так мы из тоталитарного советского прошлого с его анахронизмом в виде прописки попадаем в тоталитарное настоящее с крепостным правом в виде уголовной ответственности за нарушение правил прописки. И это вместо казалось бы необходимой отмены этого изжившего себя пережитка прошлого.,negative,neutral,neutral,negative,negative
+test,46,!знаешь наверное не обизательно выходить из ВК ес не хош говорить со мной!!!,negative,neutral,neutral,negative,negative
+test,47,"очень люблю и скучаю,ты самая лучшая сестра на белом свете💜",positive,neutral,positive,positive,positive
+test,48,хиии)) такой зелёненький),positive,neutral,neutral,neutral,neutral
+test,49,Никто сейчас случаем в Спорт Мастер не собирается съездить?)),neutral,neutral,neutral,neutral,neutral
+test,50,"помню как было тяжело , но очень хочу это все повторить ) 
+скучаю по ББ 
+ скучаю даже за тем как пролетел на вторых соревнованиях ))хех 
+а еще больше по вам пацаны ! 
+которые сейчас в Залах без меня (",negative,neutral,negative,negative,negative
+test,51,Как учит нас великая Кама Сутра - безвыходных положений не бывает!,neutral,neutral,neutral,neutral,neutral
+test,52,Хочеш горячий крепкий водки???,neutral,neutral,neutral,neutral,neutral
+test,53,"У каждого свой путь. Кому тренировки, а кому бы курнуть.",neutral,neutral,neutral,neutral,neutral
+test,54,"Это наверно всё таки по тихоньку приближается конец света!!!
+Вашему вниманию МУЖСКАЯ "" Высокая Мода""!!!! Это же бл...дь просто чудо- чудное, да диво- дивное. Сапожки в рюшечку, гольфики шёлковые, да вы не ох...ели ? Оставьте нам уже нормальных мужиков в семейных труселях и тельняшках.",negative,neutral,positive,negative,negative
+test,55,Помнишь...ахахах???))),positive,neutral,positive,positive,positive
+test,56,Жду не дождусь своё вино),neutral,neutral,neutral,positive,positive
+test,57,"Так! Что за подстава? Теперь контакт палит музыку, которую ты в данный момент слушаешь?!",neutral,neutral,neutral,negative,negative
+test,58,"Оксанка, я оценила твой характер! Где посмотреть? Здесь - ",neutral,neutral,neutral,neutral,neutral
+test,59,"Привет, мы группа ""Герои"".... Ржаки со съемок клипа))))",positive,neutral,neutral,positive,positive
+test,60,Декабрь... Лучший месяц в году!;),positive,neutral,neutral,positive,positive
+test,61,"Овен ( 16 апреля ) 
+16 апреля Овны самые добрые люди",neutral,neutral,neutral,positive,neutral
+test,62,"В России нет сборной по футболу,есть только хуесосы.",negative,neutral,neutral,negative,negative
+test,63,"10 часов( жалко что короткое XD
+",neutral,neutral,neutral,negative,negative
+test,64,"Ваня я по поводу твоего хелпера на серве Ogyrochek.Достал летает по серву говорит всем о бане,пугает новичков,подозревает всех в дюпе и его хранении,мой друг играет я его пригласил дал гибридок и тут он отдавай или забаню нахер.Я построил пасику он туда залетел пчелы его покусали и он мне несет""отравление хелпера бан"" . Cделай чет потомуш воще пиздец.",negative,neutral,neutral,negative,negative
+test,65,Ждем посты!,neutral,neutral,positive,neutral,neutral
+test,66,"Как и просил))) делал в полевых условиях, так что не суди строго:DD",neutral,neutral,neutral,neutral,neutral
+test,67,Эми умерла(,negative,neutral,neutral,negative,negative
+test,68,"зима круче, чем лето",neutral,neutral,positive,positive,positive
+test,69,купил ноут))) и моя ава пока не актуальна),neutral,neutral,neutral,neutral,neutral
+test,70,Это пи--ец!!,negative,neutral,neutral,negative,negative
+test,71,"Что касается меня, то на все ваши письма я отвечаю так: 
+У меня все хорошо, каникулы просто замечательно! Здесь прохладно( но настроение мне это не портит)))
+не переживайте так, никто пить мне не дает* Максимка шлет отдельный привет всем тем кто его знает)
+звонить дорого)) в общем всех целую, всех обнимаю, приеду расскажу че там и как",positive,neutral,negative,positive,positive
+test,72,"Рублю пизда, все расходимся, ничего интересного
+58 доллар
+72 евро",negative,neutral,neutral,negative,negative
+test,73,"Монастырь Хор Вирап, Армения",neutral,neutral,neutral,neutral,neutral
+test,74,Кремлёвские комедианты,neutral,neutral,neutral,neutral,neutral
+test,75,Неплохая статья про детей и летний отдых. ,positive,neutral,neutral,positive,positive
+test,76,эт будет про нас))),neutral,neutral,neutral,neutral,neutral
+test,77,Моя маленькая прелесть)),positive,neutral,positive,positive,positive
+test,78,"в моей жизни что то изменилось, я стал собирать кровать..:)",neutral,neutral,neutral,neutral,neutral
+test,79,"к статусу.
+На словах ты Лев Толстой, а на деле хуй простой!",negative,neutral,neutral,negative,negative
+test,80,Теперь у меня другой адресс=))рядом с офисом=)),neutral,neutral,positive,neutral,neutral
+test,81,"Все бабы как бабы, а ты Богиииииня ))))",positive,neutral,neutral,positive,positive
+test,82,Помнишь?*)),neutral,neutral,neutral,neutral,neutral
+test,83,"Она привыкла морщить носк и надувать губки когда говорят про любовь,""Ребята любви нет""говорит она и никто не знает,как она плачет по ночам,плачь боли и отчаянья!",negative,neutral,neutral,negative,negative
+test,84,А слабо такую рыбку поймать?),neutral,neutral,neutral,neutral,neutral
+test,85,"Вроде все нормально, но душу рвет на части. 😞",negative,neutral,neutral,negative,negative
+test,86,Кто здесь?,neutral,neutral,neutral,neutral,neutral
+test,87,Моя кисулька!)#моядоча#губкипююю,positive,neutral,positive,positive,positive
+test,88,"Я только сейчас понимаю,как же я похож на свою сестру,лал.
+Это настолько пи3дец,что даже WIN.",neutral,neutral,neutral,neutral,neutral
+test,89,"Если пьянку нельзя предотвратить, ее надо возглавить",neutral,neutral,neutral,neutral,neutral
+test,90,Когда любимый человек приносит утром бухлишко в постель❤️❤️❤️😂,positive,neutral,neutral,positive,positive
+test,91,"По пожеланию лейбла Golitsyn music label (the UK) решил попробовать свои силы в написании транса. Что из этого получилось, на ваш суд :)))",neutral,neutral,neutral,neutral,neutral
+test,92,Профессия изначально должна быть актом любви. И никак не браком по расчету. (Харуки Мураками. Токийские легенды),neutral,neutral,neutral,neutral,neutral
+test,93,"Правильно про нас говорят, точнее мы про себя: для русского человека единственным знаком запрещающим проезд является бетонный блок поперек дороги, все остальные - предупреждающие. Именно поэтому у нас придумали такое ноу-хау в виде металлических ловушек, подымающихся из земли. Когда же мы это быдлятство то изживем?",negative,neutral,neutral,negative,negative
+test,94,"а на еще одну, авось не слышал... даже не одну",neutral,neutral,neutral,neutral,neutral
+test,95,"#MERLINflashmob
+16.Любимая приглашенная звезда
+Конечно,это Гарри Меллинг)
+ ""Дадлик"" похудал,да ещё и играет волшебника.Очень порадовало)",positive,neutral,positive,positive,positive
+test,96,скоро старый новый год!,neutral,neutral,neutral,neutral,neutral
+test,97,"хаха
+а в подписках то первый кэп)",neutral,neutral,neutral,positive,positive
+test,98,Бросили меня как надоевшую вешь!,negative,neutral,neutral,negative,negative
+test,99,"Ничто так не связывает нас, как наши пороки.",neutral,neutral,neutral,neutral,neutral
+test,100,"Рано тебе на необитаемый остров....сначала приедешь ко мне,а потом может вдвоём укатим=))",neutral,neutral,neutral,neutral,neutral
+test,101,Зарплаты сотрудников СПбГУ достигают 1 млн руб,neutral,neutral,neutral,neutral,neutral
+test,102,Надоело быть сильной!,negative,neutral,negative,negative,negative
+test,103,"а что нужно вам , чтобы бытьсчастливыми ?",neutral,neutral,neutral,neutral,neutral
+test,104,Подсвечник,neutral,neutral,neutral,neutral,neutral
+test,105,А за окном дождь...- такое привычное явление этим летом....,neutral,neutral,neutral,neutral,neutral
+test,106,"Враг не пройдет ! =))
+
+Ранее утро, горячий чай, .. и прекрасный вид из окна",positive,neutral,neutral,positive,positive
+test,107,80 дней до приказа!!!,positive,neutral,neutral,neutral,neutral
+test,108,КАКАЯ ЖЕ ЭТО ГОДНОТА! ❤,positive,neutral,neutral,positive,positive
+test,109,Вот так вот...делайте вывод)))),neutral,neutral,neutral,neutral,neutral
+test,110,В Чечню с гитарой не хуже чем с автоматом...,neutral,neutral,neutral,neutral,neutral
+test,111,Таки дополз.,neutral,neutral,positive,neutral,neutral
+test,112,Мария Шарапова вышла в финал Открытого чемпионата Австралии,neutral,neutral,neutral,neutral,neutral
+test,113,Сессия сдана на отлично!!!!!! Ура!!!!!!)))) #блондинкавзаконе  ,positive,neutral,positive,positive,positive
+test,114,хочууууууу фоткаться(((*,positive,neutral,neutral,negative,negative
+test,115,"Наконец-то нацарапал правой рукой, которой я писать нихуя не умею, описание нападения. Нужно будет в ближайшее время отнести его в полицию, а то кроме опроса, написанного полицейским, и моего короткого заявления: ""Прошу возбудить уголовное дело по факту нападения"" у них ничего нет.",neutral,neutral,neutral,neutral,neutral
+test,116,"Погнали!Выкладываю свой новый трек за 9 месяцев отдыха.Задеты все проблемы нашего мироздания.Постарался сильно.Слушаем комментим,лайкаем,репостим.",neutral,neutral,neutral,neutral,neutral
+test,117,Когда же я вернусь по человечески:) .? А то каждый раз так.,neutral,neutral,neutral,negative,negative
+test,118,Божечки-кошечки! Мы сейчас на воздушном такси полетим!,positive,neutral,neutral,positive,positive
+test,119,"Если бы ты только знала , с каким нетерпением я жду твоих смс",neutral,neutral,neutral,positive,neutral
+test,120,связи решают,neutral,neutral,neutral,neutral,neutral
+test,121,"Мужские Кеды Lаcoste !! Набираем на завтра, 1000 руб всего!!! Остались размеры 42, 44, 44, 45,  в размер!!!",neutral,neutral,neutral,neutral,neutral
+test,122,Такой день) а еще наш любимый Дубар проверили),neutral,neutral,positive,neutral,neutral
+test,123,"21-23 ноября 2014 года
+СИСТЕМА СИБИРСКИЙ КАЗАК. Интенсив в Москве
+
+ТЕМА:
+Палка (трость, посох, кий. и т.д) - одно из четырёх статусных орудий - ОРУЖИЙ в мужской традиционной культуре.
+
+
+
+П.С.
+Добро не обязательно должно быть с кулаками, ведь в большинстве случаев ему достаточно ПАЛКИ!
+:)",neutral,neutral,neutral,neutral,neutral
+test,124,Чем тебе так досадили насекомые? ;),neutral,neutral,neutral,neutral,neutral
+test,125,Мистер Буч,neutral,neutral,neutral,neutral,neutral
+test,126,"Всё на свете говно,
+Кроме мочи. 
+Но есть ещё ветер, 
+И йа в него бздю...",negative,neutral,neutral,negative,negative
+test,127,#ахахах ...,positive,neutral,positive,positive,positive
+test,128,Самый преличный класс,positive,neutral,positive,positive,positive
+test,129,мой крестник Темка ,neutral,neutral,neutral,neutral,neutral
+test,130,"Блядь,ну дота пиздец говно ,для умственно отсталых мудаков,как же я раньше не играл в неё?",negative,neutral,negative,negative,negative
+test,131,го на моря :),neutral,neutral,neutral,neutral,neutral
+test,132,ВЫНОС МОЗГА,negative,neutral,neutral,neutral,neutral
+test,133,Дали был бы доволен:),neutral,neutral,neutral,positive,positive
+test,134,Самая последняя спетая Михой песня ..... Грустно .....,negative,neutral,positive,negative,negative
+test,135,"В четверг, 6 декабря, в американском штате Вашингтон в действие вступает новая поправка к законодательству, разрешающая лицам старше 21 года приобретать одну унцию (28,3 грамма) марихуаны в специальных точках продаж и использовать продукт в личных целях (не на публике). 2012",neutral,neutral,neutral,neutral,neutral
+test,136,"В нашу семью пришел удивительный малыш! Юлечка, спасибо тебе за сыночка!",positive,neutral,positive,positive,positive
+test,137,аххха))помнишь=),positive,neutral,neutral,positive,positive
+test,138,"Молдавская, 23
+Сдам квартиру
+2-к квартира 50 м² на 3 этаже 10-этажного панельного дома
+Сдам просторную двухкомнатную квартиру возле ТРК ""Фокус"". В квартире сделан хороший ремонт. На кухне новый кухонный гарнитур, обеденная зона, холодильник, плита, СВЧ-печь. В зале диван, 2 кресла, телевизор, стенка. В спальне диван, компьютерный стол, телевизор. 16 000 руб.",neutral,neutral,neutral,neutral,neutral
+test,139,"Девочки и мальчики! Скоро Лето! 🌴 Скинуть к пляжному сезону лишние кг, улучшить свое питание и поправить здоровье можно с Energy Diet!🌞 Супер полезный порошок в банке для супер коктейля! Это обогащенная еда🍴. Я люблю ""ваниль""☕, ""Банан""🍌, ""вкусный кофе""☕ и шоколад! Чтобы получить специальную диету для коррекции веса нужно написать в Вк, ватсап/вайбер +380979754393",neutral,neutral,neutral,positive,neutral
+test,140,ПРОЦВЕТАНИЕ Запрещён к трансляции по ЦТ во всём мире.,neutral,neutral,neutral,neutral,neutral
+test,141,Блять хренали вы пишите! Вы попробуйте так жить как пишите! Сука…,negative,neutral,neutral,negative,negative
+test,142,Писать в лс!,neutral,neutral,neutral,neutral,neutral
+test,143,Хорошо погудели),positive,neutral,positive,positive,positive
+test,144,"Ребят, кто-нибудь может мне позвонить завтра в 8 утра?:)",neutral,neutral,neutral,neutral,neutral
+test,145,"Помогите! Какое слово из 4 букв загадано на картинках?
+Возможные буквы: Э Ц Ю Д А Ж В Б Г С Ш Н Ч У
+
+Присоединяйтесь к игре:
+ ",neutral,neutral,neutral,neutral,neutral
+test,146,Узнаешь себя? ,neutral,neutral,neutral,neutral,neutral
+test,147,"Жители Новосибирска террористу ДНР_ Пошел вон убийца, тварь ВИДЕО",negative,neutral,neutral,neutral,neutral
+test,148,"Друзья - это редкие драгоценности, они приносят тебе улыбку и радость. Они готовы выслушать тебя, когда тебе это нужно, они поддерживают тебя и открывают тебе свое сердце.©",positive,neutral,positive,positive,neutral
+test,149,"Бляяяяяяяяять!!!!!!!!! Кто такая есть АВСТРАЛИЯ!?!?!??!? Кто она есть, чтобы кому то что-то указывать?!??! Что это за кенгурятник?!?!?? Они сссссссссукккиии напрочь охуели что-ли?!?!??",negative,neutral,neutral,negative,negative
+test,150,Незабываемо!!!!!!!,positive,neutral,neutral,positive,positive
+test,151,ВадьZ ... ну Традиционно ) Не без Этого ))),neutral,neutral,neutral,neutral,neutral
+test,152,"пиздеш какойто
+",negative,neutral,neutral,negative,negative
+test,153,Приветствую прекрасную лучницу на просторах инета!,positive,neutral,neutral,positive,positive
+test,154,"Может звучит смешно, но да, я катаюсь на лопате)))",positive,neutral,neutral,neutral,neutral
+test,155,"Воспоминания звездной пыли, реж. Катерина Драгунова
+Ты как собор Василия Блаженного. 17. 2013 - НОВАЯ СТРАНИЦА ВКОНТАКТЕ И они смеются.
+
+— создано в приложении «Генератор постов»:",neutral,neutral,neutral,neutral,neutral
+test,156,"Спасибо, что ты делаешь мою жизнь ярче😘 я люблю тебя 💖💞💏",positive,neutral,positive,positive,positive
+test,157,"нет ничего хуже безразличия
+лучше даже ссориться и ругаться,
+но знать, что этому человеку есть до тебя дело",negative,neutral,neutral,negative,negative
+test,158,Неоспоримый,neutral,neutral,neutral,neutral,neutral
+test,159,Кто я для тебя?,neutral,neutral,neutral,neutral,neutral
+test,160,Барселона лучшая!!!!))),positive,neutral,neutral,positive,positive
+test,161,такие бы взял?,neutral,neutral,neutral,neutral,neutral
+test,162,ай да красотаа )),positive,neutral,neutral,positive,positive
+test,163,Диана-белка ),neutral,neutral,neutral,neutral,neutral
+test,164,"Тише, души на крыше
+Медленно дышат перед прыжком.
+Слышу все твои мысли,
+То, что нам близко, всё кувырком.
+
+Как проще сказать,
+Не растерять, не разорвать,
+Мы здесь на века, словно река,
+Словно слова молитвы.
+
+Всё, кроме любви,
+Вся наша жизнь так далеко.
+Я, я не один,
+Но без тебя просто никто.
+
+Пепел легок и светел,
+Я не заметил, как время прошло.
+Чары силу теряют
+И превращают жемчуг в стекло.
+
+Как пусто в душе
+Без миражей, без волшебства.
+Мы здесь лишь на миг,
+Пусть он звучит, словно слова молитвы.
+
+Всё, кроме любви,
+Вся наша жизнь так далеко.
+Я, я не один,
+Но без тебя просто никто.
+
+Всё, кроме любви,
+Вся наша жизнь так далеко.
+Я, я не один,
+Но без тебя просто никто.
+
+Всё, кроме любви,
+Вся наша жизнь так далеко.
+Я, я не один,
+Но без тебя просто никто.",neutral,neutral,negative,neutral,neutral
+test,165,"Брат за брат, брат",neutral,neutral,neutral,neutral,neutral
+test,166,а бонг норм или нет,neutral,neutral,neutral,neutral,neutral
+test,167,"Я жду 2013 год потому, что это будет самый лучший год в моей жизни!И я очень хочу, чтобы и в этом году вы были со мной,мои друзья:)Ведь друзья-это то, что никогда не проходит. Настоящие друзья-это навсегда.",positive,neutral,positive,positive,positive
+test,168,УМНАЯ МНЕ БАБА НЕ НУЖНА))))))),neutral,neutral,neutral,neutral,neutral
+test,169,"Электронная версия легендарной ПЕРВОЙ! - ПОДСТОЛЬНОЙ! - НЕПОДЦЕНЗУРНОЙ! - газеты ""У.Курень""!
+наконец-то! УРА!!!",positive,neutral,positive,positive,positive
+test,170,"О чём мечтаю я? Да просто жить... Дышать, любить и знать, что я любима! И каждое мгновение ценить... Поскольку наша жизнь неповторима!*)",positive,neutral,neutral,positive,positive
+test,171,"Если стареть, то только так",neutral,neutral,neutral,positive,neutral
+test,172,"Та-та-литара... талитари...толи-та-ри...
+
+Тили-тили... трали-вали...
+
+Это мы не проходили, это нам не задавали...",neutral,neutral,neutral,neutral,neutral
+test,173,"знаешь какие ощущения у меня будут после
+получения аттестата?
+хозяин подарил Добби носок! Добби
+свободен",positive,neutral,neutral,positive,positive
+test,174,"...Любимый, добрый, красивый...))):-*",positive,neutral,positive,positive,positive
+test,175,Хорошо оттеняет приговор по Болотной,neutral,neutral,positive,neutral,neutral
+test,176,как можно вступить в Парящие?,neutral,neutral,neutral,neutral,neutral
+test,177,Записки  врача... -  Не плюй в колодец...,neutral,neutral,negative,neutral,neutral
+test,178,"Мишуля, мы с тобой! Ждёмс тебя!:)",positive,neutral,positive,positive,neutral
+test,179,под асфальтом - пляж,neutral,neutral,neutral,neutral,neutral
+test,180,"Говорят: 'Мужчины любят сильных женщин....' Это СЛАБЫЕ мужчины любят сильных женщин. А СИЛЬНЫЕ мужчины любят СЛАБЫХ женщин.... И только НАСТОЯЩИЙ мужчина любит женщину такой, какая она есть......",neutral,neutral,positive,neutral,neutral
+test,181,Сержант ДОМА!,positive,neutral,neutral,positive,neutral
+test,182,КОСМОС КАК ПРЕДЧУВСТВИЕ,neutral,neutral,neutral,neutral,neutral
+test,183,что это за трусы?),neutral,neutral,neutral,neutral,neutral
+test,184,Пошёл душить кощея-пожирателя детей и просить привлечь в качестве второго ответчика другую змею. В 14-30 начало судебного заседания. Главное теперь по срокам отбиться и чтобы суд ходатайство в полном объёме удовлетворил.,neutral,neutral,neutral,neutral,neutral
+test,185,пипец скучаю! Давай уже быстрее!!!)))ахахах,positive,neutral,positive,negative,negative
+test,186,Будь неладен день нашего знакомства!,negative,neutral,neutral,negative,negative
+test,187,Угнала тележку😆,neutral,neutral,neutral,positive,positive
+test,188,"Я научу тебя скучать по мне...
+Понять, что время учит, а не лечит.
+Что счастье - каждый миг наедине.. 
+И что в разлуке лишь желанней встреча.
+Я научу тебя меня хотеть... 
+До умопомрачения, до боли.. 
+Чтобы, не прикасаясь, мной владеть.
+И ощущать, как я полна тобою...
+Я все принять смогу и все понять. 
+Любить и ждать, почти что не ревнуя. 
+Ты лишь сумей меня не потерять. 
+Но этому тебя не научу я...",neutral,neutral,negative,positive,neutral
+test,189,"Страницу жизни новую
+Готов сегодня ты открыть.
+Желаю я с любовью
+Тебе всю жизнь прожить.
+Желаю чтоб печали
+Не знали о тебе,
+Чтоб радости встречали
+Тебя в твоей судьбе,
+Чтоб небо было чистым,
+Как все твои мечти.
+И взгляд твой был лучистым,
+Чтоб улыбался ты.))",positive,neutral,neutral,positive,positive
+test,190,Как я сходил на выставку Андрея Бартенева 🌈 🍭,neutral,neutral,neutral,neutral,neutral
+test,191,Понаприлетали...,neutral,neutral,neutral,neutral,neutral
+test,192,чери амулет 2011 г. Скажите пожалуйста какие лучше амортизаторы поставить??? и сколько их цена???спасибо!,neutral,neutral,neutral,neutral,neutral
+test,193,"Чехол для сидения автомобиля Me To You!
+РЕДКОСТЬ!!!!
+Только в нашем магазине.",neutral,neutral,neutral,neutral,neutral
+test,194,Я только учусь),neutral,neutral,neutral,neutral,neutral
+test,195,если будешь себя плохо вести =D,neutral,neutral,neutral,neutral,neutral
+test,196,А Брюс Уиллис ещё крепкий дедуля однако.,neutral,neutral,neutral,positive,positive
+test,197,СКОРО БУДУ ДОМА! насколько скоро решится очень быстро.... ЭТАП 1 ПРОЙДЕННО))))),positive,neutral,positive,positive,positive
+test,198,Когда нечего делать,neutral,neutral,neutral,neutral,neutral
+test,199,Мэн шикарен!),positive,neutral,positive,positive,positive
+test,200,Готовьтесь!,neutral,neutral,neutral,neutral,neutral
+test,201,Социальная реклама. Скоро на трамваях Череповца!,neutral,neutral,neutral,neutral,neutral
+test,202,"Такая , ещё ничего себе, дамочка👯",positive,neutral,neutral,positive,positive
+test,203,Рекомендую... интерессная синима...,positive,neutral,neutral,positive,positive
+test,204,"давай, я жду тебя на пятаке в 12:10:22",neutral,neutral,neutral,neutral,neutral
+test,205,"Возможно, слышала.
+Вот его бы в Мск увидеть.))",neutral,neutral,neutral,positive,neutral
+test,206,"вот вам 2 релиза,в ином направлении)))",neutral,neutral,neutral,neutral,neutral
+test,207,"БЛИН,НАЧИНАЮ ВЛЮБЛЯТСЯ...А ВЗАИМНО ЛИ ЭТО???",neutral,neutral,neutral,neutral,neutral
+test,208,прикольний статус!!!)))))),positive,neutral,positive,positive,positive
+test,209,Это ты в пятницу)))))))),neutral,neutral,neutral,neutral,neutral
+test,210,Я его помню))) Запрещенным не был))),neutral,neutral,neutral,neutral,neutral
+test,211,Товарищ Ху Дзинь Тао поехал обратно. Недолго он прибывал на форуме.,neutral,neutral,neutral,neutral,neutral
+test,212,риал мачо мэн 😆,positive,neutral,positive,positive,neutral
+test,213,"Лежу такой среди девчонок -балдею:)
+#британскиекотята #вислоухиекотята #котятвыбирайте",positive,neutral,neutral,positive,positive
+test,214,"Все люди как люди, влюбляются в девушек, а я влюбился в свои новые наушники:) #instacam #wp7",neutral,neutral,neutral,positive,positive
+test,215,"Помогите вспомнить, откуда взята инструментальная вставка из самого начала этой песни.",neutral,neutral,neutral,neutral,neutral
+test,216,"Запомним команданте таким...
+На авиабазе им. л-та Гарсия, 2007 г.",neutral,neutral,neutral,neutral,neutral
+test,217,Поц некисло сбацал хоп (с),neutral,neutral,neutral,positive,positive
+test,218,Владимировичи,neutral,neutral,neutral,neutral,neutral
+test,219,"а братья нам оказались не те с чьими дедами шли против фашизма,а те чьи деды были фашистами. заслуживают уважения",neutral,neutral,neutral,positive,positive
+test,220,адский был чувак),positive,neutral,neutral,positive,neutral
+test,221,"Родной человек - тот, с кем
+ты можешь говорить часами,
+даже когда говорить-то и не о
+чем.
+Родной человек - тот, с кем
+приятно даже просто
+помолчать.
+Родной человек - тот, чья
+боль тебе больнее
+собственной.",neutral,neutral,neutral,neutral,neutral
+test,222,го запилим пиздатое демо для амиги и победим на СС,neutral,neutral,neutral,positive,neutral
+test,223,бля наткнулась аш улыбнуло),positive,neutral,neutral,positive,positive
+test,224,Ревизор в Одессе!!!г.Черноморск*),neutral,neutral,neutral,neutral,neutral
+test,225,"[id5430162|Лев], что случилось?)тоже плохо после вчерашнего?)))",neutral,neutral,neutral,neutral,neutral
+test,226,У нас жесть. А у вас?,negative,neutral,neutral,negative,negative
+test,227,Пиздатый попугай),positive,neutral,neutral,positive,positive
+test,228,"У меня 200 уровень.
+",neutral,neutral,neutral,neutral,neutral
+test,229,ВСЕ ЗАВТРА НА РАБОТУ((((,negative,neutral,neutral,negative,negative
+test,230,Ура-ура-УРААА!!!)) Сбылась мечта идиота! Поздравьте!),positive,neutral,positive,positive,positive
+test,231,"Говорили же тебе, облысеешь, татуху видно будет;)
+Новый депутат городской Думы в Свердловской области.",neutral,neutral,neutral,neutral,neutral
+test,232,2ееее....местооооо!!!!,positive,neutral,neutral,positive,neutral
+test,233,Бредяяятина... не спать всю ночь ради такого?? мдаа..,negative,neutral,neutral,negative,negative
+test,234,"ааа как вспомню Панда лезби )ахахах
+сама сказала,и сама приставала к Лёхе)",neutral,neutral,neutral,positive,positive
+test,235,Толерастам:,negative,neutral,neutral,negative,negative
+test,236,у СОВРЕМЕННОЙ ЭКОНОМИКИ НЕТ НИКАКОЙ ЭКОНОМИКИ ГОСУДАРСТВЕННОЙ.    МНЕ  РАБОЧЕЙ ОТ ТОКАРНОГО СТАНКА СОЗДАЮЩЕЙ СОБСТВЕННЫМИ РУКАМИ МАТЕРИАЛЬНЫЕ ЦЕННОСТИ С ДЕТСТВА ИЗВЕСТНО ЧТО ЭКОНОМИКА ЭТО И ЕСТЬ СОЗДАНИЕ МАТЕРИАЛЬНЫХ ЦЕННОСТЕЙ СВОИМИ РУКАМИ В СВОЕЙ СТРАНЕ.  ЭТО ЗНАЛИ И  ОСУЩЕСТВЛЯЛИ ПОСЛЕ ВОЙНЫ С 1944 Г  ВСЕ НАРОДЫ ВОССТАНАВЛИВАЯ ЗАВОДЫ ФАБРИКИ СЕЛЬСКХОЗЯЙСТВА.         СЕГОДНЯ ХОЗЯЕВАМ НАПЛЕВАТЬ НА ВСЕ ОНИ И ТАК БОГАТЫЕ ГОСПОДА.              А ЭКОНОМИКУ ЗАМЕНЯЮТ ПОЛИТИКОЙ СЛИЗАННОЙ С АМЕРИКАНЦЕВ   И МИЛЛИОНЫ ДЕРЖАТ В ЧУЖИХ БАНКАХ. НА СЕГОДНЯШНИЙ ДЕНЬ У МЕНЯ ОБРАЗОВАНИЕ ЭКОНОМИЧЕСКОЕ-ВЫСШЕЕ И ПРЯМО ВАМ ГОВОРЮ У РОССИИ НЕТ ЭКОНОМИКИ В РОССИИ ТОЛЬКО БАРДЕЛЬ ПОЛИТИКОВ   .,negative,neutral,neutral,negative,negative
+test,237,Сыыыыноооокккк♥♥,positive,neutral,neutral,positive,positive
+test,238,Обоюдная так как оба на красный сигнал залетели! 5000 штук зря отдал!,neutral,neutral,neutral,negative,negative
+test,239,кто был - тот в теме))),neutral,neutral,neutral,neutral,neutral
+test,240,Сказка всегда практически всегда становиться реальностью.......,neutral,neutral,positive,neutral,neutral
+test,241,Куала-Лумпурские нанотехнологии!)),neutral,neutral,neutral,neutral,neutral
+test,242,Очень вкусный протеин! Он ничем не заменим!,neutral,neutral,negative,positive,positive
+test,243,"Я жаловался на мусор в ростовских рощах и парках. Омск, я беру свои слова обратно...",negative,neutral,neutral,negative,negative
+test,244,связан с мотоциклами или интересуешься - будь в теме!,neutral,neutral,neutral,neutral,neutral
+test,245,"для тех, кто учился в 60-80.avi",neutral,neutral,neutral,neutral,neutral
+test,246,"я верю, что думающий в России не он один.",neutral,neutral,neutral,neutral,neutral
+test,247,"Пора проснуться, иначе катастрофа неминуема.",neutral,neutral,neutral,negative,negative
+test,248,"кто из моделей хотел со мной посотрудничать тфп просто поставьте тут лайк, а я сама выберу (наугад или нет - хз) одну-двух девушек... жду новые лица ;)",neutral,neutral,neutral,neutral,neutral
+test,249,ужас как они могли ети люди если это вобще люди,negative,neutral,neutral,negative,negative
+test,250,люблю тебя зая)))*,positive,neutral,positive,positive,positive
+test,251,МОЙ САМЫЙ ЛЮБИМЫЙ АНГЕЛ!!!!,positive,neutral,positive,positive,positive
+test,252,"Заметили? Если кружку разбила мама, то это на счастье, а если ты, то у тебя руки из одного места)",neutral,neutral,neutral,neutral,neutral
+test,253,Наши первые колоски))),positive,neutral,positive,neutral,neutral
+test,254,Я просто не мог этого не сделать.,neutral,neutral,neutral,neutral,neutral
+test,255,а ты примешь вызов?,neutral,neutral,neutral,neutral,neutral
+test,256,"Кто поёт песню миллион,миллион алых роз?",neutral,neutral,neutral,neutral,neutral
+test,257,Бакалавр!!!!егегей!!!,positive,neutral,neutral,positive,positive
+test,258,"если еще не видел,то понравится)))))",positive,neutral,neutral,positive,positive
+test,259,"ммм, рыцарь печального образа слушает УН??)",neutral,neutral,neutral,neutral,neutral
+test,260,"Я прошел клёвый тест  ''Какой Вы мужчина?'' . Удивительные результаты! Советую всем пройти! 
+ ♥♥♥",neutral,neutral,neutral,positive,neutral
+test,261,"[id12378670|Anastasia], хорошо бы до следующего шоу аффтар хореографии убился ап стену",negative,neutral,neutral,negative,negative
+test,262,И такая дребедень целый день😂😂😂,negative,neutral,neutral,neutral,neutral
+test,263,"Лимитированный Гаара Sand Coffin, выпущенный в 2007 году ограниченным тиражом в 2000 экземпляров и я всё-таки его получила *О*
+Радость-счастье..",positive,neutral,positive,positive,positive
+test,264,Юра просит у тебя ману в подарок в игре Трагедия Белок ,neutral,neutral,neutral,neutral,neutral
+test,265,Шизофрения - бесплатный тест. Полностью в режиме онлайн.,neutral,neutral,neutral,neutral,neutral
+test,266,прадам черный белый зелёный мрамор киноленты хрусталь брёвна пальмы синию черепицу краску краснаю жёлтую сах вату пряники колокольчики газеты бумагу брусь секвою пишите в лс каму што нужна паставлю торг))),neutral,neutral,neutral,neutral,neutral
+test,267,"Ребята, не играйте на слабо с выпивкой...",neutral,neutral,neutral,neutral,neutral
+test,268,ЖЕНЬКА~ЖМЕНЬКА!!!))),neutral,neutral,neutral,neutral,neutral
+test,269,На выходе из гостиницы на этой неделе,neutral,neutral,neutral,neutral,neutral
+test,270,"Прикольно, когда ""знакомые знакомых"" (быстрое опознание по фото вконтакте) впервые видят тебя с царапиной на лбу после бурных именин.",neutral,neutral,neutral,positive,neutral
+test,271,Теперь я дважды дядя,positive,neutral,positive,positive,neutral
+test,272,"Семь секретов счастливого человека.
+
+1. Не беспокоиться о том, что думают о тебе окружающие. (Секрет Свободы)
+2. Любая наша мысль обязательно материализуется. (Секрет Реальности)
+3. Полюбите и примите своё тело. (Секрет Красоты)
+4. Не осуждайте и не критикуйте себя и других. (Секрет Дружбы)
+5. Дарите Любовь и не переделывайте Любимых. (Секрет Любви)
+6. Научитесь сначала давать, а потом получать. (Секрет Богатства)
+7. Не додумывайте за других, больше любите и радуйтесь. (Секрет Счастья)",neutral,neutral,neutral,neutral,neutral
+test,273,"Юляшка, узнай всю правду о себе здесь:
+ ♥♥♥  ♥♥♥",neutral,neutral,neutral,neutral,neutral
+test,274,Ну да стёб,neutral,neutral,neutral,neutral,neutral
+test,275,"По итогам небольшой дискуссии родился вопрос переросший в опрос ""В чём удовольствие от езды для второго номера""? Адресовано прежде всего подругам, к тем кто катал и кто хотел бы покататься. Что вы ждёте от таких покатушек? Впрочем, дядьки тоже могут отвечать)))
+",neutral,neutral,neutral,neutral,neutral
+test,276,"Есть одна такая хорошая поговорка: ""Доверяй, но проверяй"".. жаль, что порой результаты проверки такие, что сразу вспоминаешь ещё одну: ""Меньше знаешь - крепче спишь"".",negative,neutral,neutral,negative,negative
+test,277,НАЖМИ НА МОЮ АВУ)))))),neutral,neutral,neutral,neutral,neutral
+test,278,завтра)))),neutral,neutral,neutral,neutral,neutral
+test,279,МЕГАПОЛИС: бегущие по кругу,neutral,neutral,neutral,neutral,neutral
+test,280,"Великолепная свадьба, красивая пара  Лена и Рома!
+(15 июня 2013)
+Смотрим как все было
+",neutral,neutral,neutral,positive,positive
+test,281,"Сегодня такой прекрасный день!
+Столько встреч, интересных знакомств и положительных эмоций. А началось все с того, что нас попросили эвакуироваться с СушиДома, ибо нефиг сидеть в дыму. Они погорели немножко, какая жаль. Надеюсь, что уже завтра у них будет всё в порядке. 
+#ДоброеУтро",positive,neutral,neutral,positive,positive
+test,282,Аист прилетел и сел на Ленина! Харьков!,neutral,neutral,neutral,neutral,neutral
+test,283,"Дорогие друзья!!! 🗣💁🏼Очень хочется освободить полочку в шкафу для новых весенних творений!🌱☀️💦В связи с этим объявляю тотальный SALE моих зимних вязаных аксессуаров‼️❣‼️Цены могу предложить очень вкусные в связи со старыми ценами на пряжу! 😋🌀💠🌀💠🌀Хорошая возможность утеплиться, тем более что зимушка-зима похоже нас не покинет до июня😅😅👻❄️❄️❄️
+Только лучшая пряжа для Вас!👌🏻⚜⚜⚜",neutral,neutral,neutral,neutral,neutral
+test,284,Канадское утро какое-то,neutral,neutral,neutral,neutral,neutral
+test,285,"Бедный Лис от горя,
+Помешался вскоре,
+Стал свою находку,
+Называть судьбою...",neutral,neutral,neutral,negative,neutral
+test,286,И Роял проклятущий тоже)))))))))),neutral,neutral,positive,negative,negative
+test,287,ПОЛНАЯ ВЕРСИЯ! КТО ЖЕЛАЕТ ЗАКАЗАТЬ АВТОРСКИЙ МИНУС - ПИШИТЕ В ЛИЧКУ!,neutral,neutral,neutral,neutral,neutral
+test,288,Новая песнь Ё!,positive,neutral,neutral,neutral,neutral
+test,289,"таких идеалистов поищи еще, битловское поколение",neutral,neutral,positive,positive,neutral
+test,290,"Возникает встречный вопрос если она хорошая жена, любящая мать - куда пропал ее муж? В 29- лет у нормальных девушек есть тыл - любимый муж и прекрасная семья. А по ночам ходят только ""девушки"", которым в жизни чего-то не хватает. Я не говорю, что ей нельзя устраивать свою личную жизнь, можно найти хорошего человека и отдыхать вместе с ним. Ладно обсуждать ее личную жизнь не стоит - она человек самостоятельный сама разберется.",neutral,neutral,negative,negative,negative
+test,291,Вот это кривой палец✌,neutral,neutral,positive,neutral,neutral
+test,292,"Иногда мне кажется, моими предками были итальянцы. Причем с Сицилии",neutral,neutral,neutral,neutral,neutral
+test,293,"Юлька, Кота-Мота и Я",neutral,neutral,neutral,neutral,neutral
+test,294,Ктонить пойдет на алцест в эту субботу?,neutral,neutral,neutral,neutral,neutral
+test,295,"Выбирай,слева справа?",neutral,neutral,neutral,neutral,neutral
+test,296,Чак Норрис убивает палкой автобус!!!! ахахахахаххххх))))),positive,neutral,neutral,positive,positive
+test,297,"Интересный казус тролиинга в сети)))
+состоял я в такой группе - якобы Славянское родноверие
+
+и вчера имел неосторожность вступиться за Чудинова и историю нашего языка. И о чудо чудное!! некая 
+Магура Чепурная  модератор группы, будучи жесточайшим русофобом! тут же меня забанила))))))",neutral,neutral,neutral,negative,negative
+test,298,Руководитель группы Мак Сим Дань Шин,neutral,neutral,neutral,neutral,neutral
+test,299,самый лучший танцор)))и просто хороший человек!!!,positive,neutral,positive,positive,positive
+test,300,"Взросление — это не клубы, курение, алкоголь и понты. Это, когда понимаешь, что материться и бухать - некрасиво!",neutral,neutral,neutral,neutral,neutral
+test,301,"учебное образование(с) 
+:D",neutral,neutral,neutral,positive,neutral
+test,302,"Ну и что, что мать одиночка,зато у меня такая дочка!!!",positive,neutral,neutral,positive,positive
+test,303,Внезапно полюбила сырой рис,neutral,neutral,neutral,positive,positive
+test,304,я так и не досмотрела какого-то хрена,negative,neutral,neutral,negative,negative
+test,305,Втираю протеин),neutral,neutral,neutral,neutral,neutral
+test,306,"слышу повышающийся тон.. ээ, ну ок
+а кто-нибудь слышит понижающийся тон?",neutral,neutral,neutral,neutral,neutral
+test,307,"Самый лучший подарок, который дарит нам Бог — это люди, которым мы говорим «спасибо, что ты есть»........зай спасибо что ты у меня есть...",neutral,neutral,positive,positive,positive
+test,308,"ууух, жестко (если попробовать перевести, тебе слова понравятся)))",neutral,neutral,neutral,positive,neutral
+test,309,Странные и замечательные фотографии года - Вдохновение,neutral,neutral,neutral,positive,neutral
+test,310,"С 7 часов утра , ломлюсь в твою квартиру я !",neutral,neutral,neutral,neutral,neutral
+test,311,"Не делайте умное лицо,вам не идет 
+(цэ)",neutral,neutral,neutral,negative,negative
+test,312,"Ураааа, нам сегодня три годика.....😊",positive,neutral,neutral,positive,positive
+test,313,Ты еще нормально летал!!))))))),neutral,neutral,neutral,positive,positive
+test,314,Ита шидвр!,positive,neutral,neutral,positive,positive
+test,315,"Пожелайте мне кучи шмоток недорогих
+не душной дороги
+и вкусняшек море
+аминь",neutral,neutral,positive,neutral,neutral
+test,316,"ребятки, вдруг у кого МЕТРОВЫЙ ПОДРАМНИК сохранился? ОДОЛЖИТЕ, пожалуйста!!!)))",neutral,neutral,neutral,neutral,neutral
+test,317,ну все щенок ты огребаешь за пиздеж,negative,neutral,neutral,negative,negative
+test,318,Я-доктор)),neutral,neutral,neutral,neutral,neutral
+test,319,Мой новый ремикс для Redux Recordings!!! Приятного прослушивания ;),neutral,neutral,neutral,neutral,neutral
+test,320,неожиданно,neutral,neutral,neutral,neutral,neutral
+test,321,на тебе песню под статус***,neutral,neutral,neutral,neutral,neutral
+test,322,"Любимый, милый, дорогой,
+Хочу всю жизнь прожить с тобой.
+И я признаться не боюсь,
+И знаю, что тебе я снюсь.
+Любимый, солнышко мое,
+Поверь, ты мне важней всего.
+Мне одиноко без тебя.
+Лишь ты — навек моя судьба.",positive,neutral,positive,positive,positive
+test,323,Появились первые подснежники - так романтично,positive,neutral,neutral,positive,positive
+test,324,...сдал экзамены)),positive,neutral,neutral,positive,positive
+test,325,Я люблю тебя 😻😽,positive,neutral,positive,positive,positive
+test,326,"Поняла меня,коза?)",neutral,neutral,neutral,neutral,neutral
+test,327,"только первая серия 8го сезона и сразу - волчанка, сэр! ыыыыыы",neutral,neutral,neutral,neutral,neutral
+test,328,Люби Сёму.,neutral,neutral,neutral,neutral,neutral
+test,329,"Как хуево и тяжело на душе, когда тебя бросает твой любимый и дорогой человек...((( какая тоска и боль на душе, это не передать((((",negative,neutral,neutral,negative,negative
+test,330,СУПЕРСКОГО НАСТРОЕНИЯ И ОТЛИЧНОГО ДНЯ))))) ЦЕМ***,positive,neutral,positive,positive,neutral
+test,331,Погода-шик для вваливания на заднем приводе :),positive,neutral,neutral,positive,positive
+test,332,Страшная правда жизни :)),neutral,neutral,neutral,neutral,neutral
+test,333,"Похороны все чаще и чаще.
+Свадьбы все реже и реже. (",negative,neutral,neutral,negative,negative
+test,334,"Закрытие клуба Fабрика - 11 июня (суббота) 
+Плакаю!!!(((((",negative,neutral,neutral,negative,negative
+test,335,"КУРИТЬ ИЛИ НЕ КУРИТЬ? ВОТ В ЧЕМ ВОПРОС!
+СКОРО, НА ЭТОЙ СТЕНКЕ...",neutral,neutral,neutral,neutral,neutral
+test,336,Школота)))),neutral,neutral,neutral,negative,neutral
+test,337,Ну што сиграйем???,neutral,neutral,neutral,neutral,neutral
+test,338,"Для тех кто не смог попасть на концерт.
+Полная видеоверсия
+",neutral,neutral,neutral,neutral,neutral
+test,339,"ай да крымчанки, ай да умнички. спасибо, видео порадовало 😊",positive,neutral,positive,positive,positive
+test,340,Сэлфи с моим новым другом 😁🌴🐘,positive,neutral,neutral,neutral,neutral
+test,341,немножко экзотики )),neutral,neutral,neutral,neutral,neutral
+test,342,Мы за ЗОЖ! Мы любим спорт! [Дима] часть вторая.,neutral,neutral,neutral,positive,positive
+test,343,как дела в качалке?,neutral,neutral,neutral,neutral,neutral
+test,344,Дубки!позовите на чай?),neutral,neutral,neutral,neutral,neutral
+test,345,"По стечению обстоятельств клиента у меня освободилась дата  21 июня.
+
+С удовольствием буду вашим видеографом на свадьбе.
+
+Примеры моих работ ниже
+
+Заранее благодарен за репост.",neutral,neutral,neutral,neutral,neutral
+test,346,Ох и Лешенька....)))) Попробуй))) Это новый вид амазонок!!))),neutral,neutral,neutral,neutral,neutral
+test,347,я в общяге юху)),positive,neutral,neutral,positive,positive
+test,348,"сегодня по СТБ документальный фильм про Сергея Мавродия, создателя первой финансовой пирамиду в РФ ""МММ""!!!",neutral,neutral,neutral,neutral,neutral
+test,349,"Едь к тёлкам,хули сидишь?!",neutral,neutral,neutral,neutral,neutral
+test,350,диджеи правят миром,neutral,neutral,neutral,neutral,neutral
+test,351,"Призываю тебя к мудрости.Не суди всех по себе,о человек.Нынче ты окутана Тьмой,а человек ражденный в Свете.",neutral,neutral,neutral,negative,negative
+test,352,"Хороша,как никогда)",positive,neutral,neutral,positive,positive
+test,353,это катя смотрит как обновляется ее стеночка,neutral,neutral,neutral,neutral,neutral
+test,354,"Самый влиятельный человек после пьянки тот, у кого все фотографии",neutral,neutral,neutral,neutral,neutral
+test,355,"классная фотосессия, спасибо любимому!!!!",positive,neutral,positive,positive,positive
+test,356,почему я такой умный ,neutral,neutral,neutral,neutral,neutral
+test,357,"как увидела, сразу о тебе подумала=)",neutral,neutral,neutral,neutral,neutral
+test,358,"Товарищи, 350-я!!!!!! Кто знает как будет проходить контрольная по геральдике??????",neutral,neutral,neutral,neutral,neutral
+test,359,"Дима, у меня на Ниве он тоже есть, твой (... не знаю как, тезка,  неодушевленный родственник, товарищ по прозвищу, как, чтоб не обидеть...). Главное, я на него уже 2 ТОЙОТЫ насадил, бампера вдрызг, а Ниве хоть бы хны! Ни на что не поменяю фаркоп! ))",neutral,neutral,neutral,positive,positive
+test,360,"Ты говоришь,что я курю, ты говоришь,что водку пью,Ты говоришь, что я
+не та, которая тебе нужна,И хочешь чтобы перед тобой,была я верною
+рабой,но я не дура быть такой, пошел ты на хуй дорогой",negative,neutral,neutral,negative,negative
+test,361,А чо? И мой штатив за ёлку сошел))),neutral,neutral,neutral,neutral,neutral
+test,362,На прошении Шлимана вернуться в Россию император Александр II наложил резолюцию: «Пусть приезжает — повесим».,neutral,neutral,neutral,neutral,neutral
+test,363,Кержаков? Он видимо пас отдавал,neutral,neutral,neutral,neutral,neutral
+test,364,"Летел и таял, не соберу -
+Летел и таял... Больше не тает,
+Завтра я ещё не умру,
+Но кто его знает - завтра это, о-о-о-о...
+Летел, горел, был высоко -
+Летел, горел... Перетекает,
+Завтра это так далеко,
+Что кто его знает - завтра это, о-о-о-о...
+
+Она так ждёт и ни туда, и ни сюда,
+И ни туда, и ни сюда-а-а...
+Она так ждёт и ни туда, и ни сюда,
+И ни туда, и ни сюда-а-а...
+Она так ждёт и ни туда, и ни сюда,
+И ни туда, и ни сюда-а-а...
+
+Летел и таял...
+Летел и таял, не соберу -
+Летел и таял... Больше не тает,
+Завтра я ещё не умру,
+Но кто его знает - завтра это, о-о-о-о...
+Она так ждёт и ни туда, и ни сюда,
+И ни туда, и ни сюда-а-а...
+Она так ждёт и ни туда, и ни сюда,
+И ни туда, и ни сюда-а-а...",neutral,neutral,neutral,neutral,neutral
+test,365,"Денис,молодец!!!Ееееееееееееееееееееееесть,аааааааааааааааааааааа,Усиииик!)",positive,neutral,neutral,positive,positive
+test,366,Подписывайтесь на мой инстаграм  друзья!) pavlenko_alexander,neutral,neutral,neutral,neutral,neutral
+test,367,"В моем детстве друзья были не в online, а во дворе. 
+Мы звали друзей гулять не по телефону, а кричали: Выходи.
+Мы играли не в сетевые игры, а в прятки.
+У нас не было крутых телефонов, а были дневники и анкеты. 
+Классное было детство.",positive,neutral,neutral,positive,positive
+test,368,"вооот
+давно хотела тебе кинуть)",neutral,neutral,neutral,neutral,neutral
+test,369,Сдала экзамены!!!!!Ура!!!!,positive,neutral,positive,positive,positive
+test,370,"[id31552783|Сань], ты попал на физмат - Тетен и Раенка лишат любого студента свободного времени...",negative,neutral,neutral,negative,negative
+test,371,в городе делать нех вообще,negative,neutral,negative,negative,negative
+test,372,"Мы встречаемся, не зная, кто, откуда… И не ведаем, что встреча нам несёт… Так бывает, что знакомство — лишь причуда. А бывает, встреча… жизнь перевернёт…
+
+",neutral,neutral,neutral,neutral,neutral
+test,373,"Вот так должен работать каждый артист )
+",positive,neutral,neutral,positive,positive
+test,374,Вечерняя пррробежка :P,neutral,neutral,neutral,neutral,neutral
+test,375,"как такой бред набрал столько лайков (14680)? Девушки, вы в своем уме?",neutral,neutral,neutral,negative,negative
+test,376,Карманный кот ))),neutral,neutral,neutral,neutral,neutral
+test,377,Мой любимый сериальчик^^,positive,neutral,positive,positive,positive
+test,378,та конечно все в шоколаде..,positive,neutral,neutral,neutral,neutral
+test,379,"Что вас волновать не должно:
+моя жизнь.
+мой выбор.
+мои ошибки.
+мои уроки.
+мои проблемы.
+мои вкусы.",neutral,neutral,positive,neutral,neutral
+test,380,"ушел в банк, потом в универ... почему именно так думайте сами)))",neutral,neutral,neutral,neutral,neutral
+test,381,"ВЧЕРА ТАК КЛАССНО ОТОРВАЛАСЬ, ЧТО СЕГОДНЯ ЗАБАЛЕЛА(((",negative,neutral,neutral,neutral,neutral
+test,382,"Вот место, в котором надо зимовать. К черту эти холодные страны, снегопады и мороз. Как-нибудь без всяких лыж я проживу (все равно никогда их не любил), а вот сидеть в декабре на берегу и наслаждаться видом океана, попивая мадейру - истинное удовольствие. Температура +18. Боже, храни Португалию.",positive,neutral,neutral,positive,positive
+test,383,ПОМОШНИК СИСТЕМНОГО АДМИНИСТРАТОРА 😊,neutral,neutral,neutral,neutral,neutral
+test,384,всё будет хорошо)))))))),positive,neutral,positive,positive,positive
+test,385,"Никогда не думал, что у нас в центре еще ежики живут. У нас в РГСУ завтра с утра тоже субботник, может и мы что- то ( а точнее кого- то) найдем !))",neutral,neutral,neutral,neutral,neutral
+test,386,РЕЖИССЁР МОНТАЖА СЕРГЕЙ ГЕОРГИЕВ ! ПРОДЮСЕР МАКСИМ ХУДОЖНИКОВ ! ДАЛЬНОБОЙ (РЕМЕЙК) ,neutral,neutral,neutral,neutral,neutral
+test,387,Танюшечка❤,positive,neutral,neutral,positive,positive
+test,388,дааааааааааааааааааа:*,positive,neutral,neutral,positive,positive
+test,389,ᅠᅠᅠ ᅠᅠᅠᅠᅠУгу...,neutral,neutral,neutral,neutral,neutral
+test,390,"Чтобы узнать цену года, спроси студента, который провалился на экзамене.
+Чтобы узнать цену месяца, спроси мать, родившую преждевременно.
+Чтобы узнать цену недели, спроси редактора еженедельника.
+Чтобы узнать цену часа, спроси влюблённого, ждущего свою возлюбленную.
+Чтобы узнать цену минуты, спроси опоздавшего на поезд.
+Чтобы узнать цену секунды, спроси того, кто потерял близкого человека в автомобильной катастрофе.
+Чтобы узнать цену одной тысячной секунды, спроси серебряного медалиста Олимпийских игр.(Б.Вербер)",neutral,neutral,neutral,neutral,neutral
+test,391,Племяница и тетя отдыхают,positive,neutral,neutral,neutral,neutral
+test,392,"Да, хорошие песни... У меня одна из любимых песен ранней Пугачёвой - вот эта. Самая известная, конечно, но всё равно )",positive,neutral,positive,positive,positive
+test,393,"
+хаха...полюбому вот они твои танцульки)))",neutral,neutral,neutral,positive,positive
+test,394,Спят усталые игрушки 😴 😴 😴 😊 😊 😊,neutral,neutral,neutral,neutral,neutral
+test,395,Ну вот и моя очередь,neutral,neutral,positive,neutral,neutral
+test,396,"Алексей, здравствуйте!  Скажите, пожалуйста, когда хоть ориентировочно ждать Ваши концерты в Москве: летом, осенью? Спасибо.",neutral,neutral,neutral,neutral,neutral
+test,397,"не забывай брат - это прогрессив, он расходиться постепенно, перемотками тут дело не решишь)",neutral,neutral,neutral,neutral,neutral
+test,398,"СРОЧНО! До 19 июня!
+Нужен флаг Ингушетии. Размер - чтоб удобно было на спину надеть.
+
+Репост и все дела.
+
+ПС: накидайте дерзких чеченских в комменты.
+Всем вши есть.",neutral,neutral,neutral,neutral,neutral
+test,399,"Отчаяние.
+Ну вот што это?
+КИСЮН!
+ВОТ ЭТО ТЕМА",positive,neutral,neutral,neutral,neutral
+test,400,Шапка нада,neutral,neutral,neutral,neutral,neutral
+test,401,Смотрите):3,neutral,neutral,neutral,neutral,neutral
+test,402,я себе похлопал),neutral,neutral,neutral,positive,positive
+test,403,Я променяла вас на диплом!А ещё на министерское тестирование и гос экзамены!!Я 26 числа уже с дипломом в зубах буду!!!!!,positive,neutral,neutral,neutral,neutral
+test,404,"Люди интересны друг другу настолько, насколько они друг другу полезны. (с) Максим Ильяхов",neutral,neutral,positive,neutral,neutral
+test,405,немного музыки..разбавить твою стену ),neutral,neutral,neutral,neutral,neutral
+test,406,Как те две) :D в,neutral,neutral,neutral,neutral,neutral
+test,407,"Кто сегодня накормит всю семью шашлыком( пока папа на работе)🍗🍖🔥? 
+Я и лошадь ,я и бык , я и баба и мужик 💪🏻",neutral,neutral,neutral,neutral,neutral
+test,408,"У меня есть, блеЯть,плёнка!!!!!",neutral,neutral,positive,positive,positive
+test,409,у меня нет машины... нет нормальной работы... я не закончил еще универ в свои то 18 !! я неудачник,negative,neutral,neutral,negative,negative
+test,410,Малой и я сегодня чудили)),neutral,neutral,positive,positive,positive
+test,411,всем кто собираеться или планирует отдыхать самые хорошие предложения и СКИДКИ на любые туры пишите звоните.....)))!!!!!!,neutral,neutral,neutral,neutral,neutral
+test,412,Боже мой какая прелесть ...Мои любимые цветы..Только ты с цветом не много не угадал))),positive,neutral,positive,positive,positive
+test,413,Кто-то потрудился на славу.,neutral,neutral,neutral,positive,positive
+test,414,самый лучший выпуск и самые лучшие!!!! [in my opinion:)],positive,neutral,positive,positive,positive
+test,415,Мы проапгрейдили статую ))),neutral,neutral,positive,neutral,neutral
+test,416,аахаххах Адриано))))),positive,neutral,neutral,positive,positive
+test,417,Спасибки за трэки - они просто БОМБОВЫЕ!!!!!!!!!!!!!!,positive,neutral,positive,positive,positive
+test,418,"Спасибо за классные переводы,озвучку и мотивацию.Сложил несколько аудио и уже потренил под неё,получилось по приседать с большим весом,чем рассчитывал",positive,neutral,positive,positive,positive
+test,419,блин как теперь аву переключать?,neutral,neutral,positive,negative,neutral
+test,420,"ну,а вдруг))",neutral,neutral,neutral,neutral,neutral
+test,421,Ну и контрольный...,neutral,neutral,neutral,neutral,neutral
+test,422,Это как бы остров между Алтуфьевским и Осташковским шоссе ^^,neutral,neutral,neutral,neutral,neutral
+test,423,После 6-ти часовой задержки в Бангкоке и второго захода на посадку- мы дома! Всем привет!,positive,neutral,neutral,positive,positive
+test,424,Я прислал(а) тебе подарок! Зайди в игру чтобы получить!,neutral,neutral,neutral,neutral,neutral
+test,425,"у меня завелся паук. лучше бы ему поскорее убраться из моей квартиры, так и знайте! буду информировать в онлайне, через вконтакте и фейсбук.",neutral,neutral,neutral,negative,negative
+test,426,английский пришел !,neutral,neutral,neutral,neutral,neutral
+test,427,"BBCOS KERATIN COLOR - это краска БЕЗ АММИАКА на основе кератина, которая легко проникает в структуру волоса в процессе окрашивания, обеспечивая регенерацию белка.ВОСТАНОВЛЕНИЕ + ОКРАШИВАНИЕ!!!! BBcos- Время новой краски!!!",neutral,neutral,neutral,neutral,neutral
+test,428,"Кладем какули, помогаем проекту, смотрим, подписываемся, а так же распространяем! 
+P.S. В видео присутствует на нормативная лексика.
+P.p.s Много",neutral,neutral,neutral,neutral,neutral
+test,429,"ЕЕееееб.... тебе еще солдат, пилить и пилить))",neutral,neutral,neutral,neutral,neutral
+test,430,""" Бывшие парни - как жвачка - пожевала и выплюнула. Да, было вкусно, но с пола не хочется. ”©",negative,neutral,negative,neutral,neutral
+test,431,"Сегодня еще одна тяжелая тренировка,так что готовимся!!!",neutral,neutral,positive,neutral,neutral
+test,432,"И снова я разочаровался в людях. Сегодня вечером ехал со свадьбы, подвез 2 женщин за 150 руб. Еду обратно тормозит парень молодой - открываю окно - спрашиваю куда, ответил, что до Дьяконова (тормознул на Южке), но денег с собой нет, что мол приеду, возьму",negative,neutral,neutral,negative,negative
+test,433,нравитьсяя ваще :*,positive,neutral,positive,positive,positive
+test,434,КЛАССНАЯ АВА:),positive,neutral,positive,positive,positive
+test,435,Мечты сбываются :) ,positive,neutral,neutral,positive,positive
+test,436,ану ка быстро цоя добавь!,neutral,neutral,neutral,neutral,neutral
+test,437,Полнэ жопэ!((,negative,neutral,neutral,negative,negative
+test,438,Мега фапный голос парня:3,positive,neutral,positive,positive,positive
+test,439,Поймала грустинку...(((,negative,neutral,neutral,negative,negative
+test,440,Это мой корабль короч,neutral,neutral,neutral,neutral,neutral
+test,441,"Как-то раз я сказал, что скорее второе пришествие Христа произойдёт, чем я женюсь.
+Сегодня мне прислали это фото.",neutral,neutral,neutral,neutral,neutral
+test,442,Пора и за грибами съездить!,neutral,neutral,neutral,neutral,neutral
+test,443,"Двоюродный брат продает:
+
+Volvo S80 2008 год, 58 тыс пробег, 3.2 AWD максимальная комплектация  - 780 тыс. 
+
+Кому интересно, дам телефон:) 
+
+Фото чисто для понимания:)",neutral,neutral,neutral,neutral,neutral
+test,444,"...Может через пару тысяч лет, ты увидишь...",neutral,neutral,neutral,neutral,neutral
+test,445,Ктоооооо кто убивает детей обезьяны?,neutral,neutral,neutral,neutral,neutral
+test,446,"Мдааа, слухи - вещь интересная...)
+Столько нового про себя узнаешь!",neutral,neutral,neutral,negative,negative
+test,447,где бы взять,neutral,neutral,neutral,neutral,neutral
+test,448,"Ксюш, давай ещё раз День Рождения, а, может продолжим ахахах))",positive,neutral,neutral,positive,positive
+test,449,"Это было действительно круто , это нужно было видеть ,это нужно было слышать ,Океаны зарядили Днепр на полную)",positive,neutral,positive,positive,positive
+test,450,классные были времена)) молодость наша))),positive,neutral,neutral,positive,positive
+test,451,Послушай! ),neutral,neutral,neutral,neutral,neutral
+test,452,мою любимую давайте))),positive,neutral,neutral,positive,neutral
+test,453,Трудовые пятничные вечера:),neutral,neutral,neutral,neutral,neutral
+test,454,"кошка в клетке 
+🐯 
+
+",neutral,neutral,neutral,neutral,neutral
+test,455,"Так приятно оказаться в обществе людей которые на мою фразу:""Я не буду танцевать"" отвечают: ""Шо значит не будешь?! А ты для чего сюда пришла?""",neutral,neutral,neutral,positive,positive
+test,456,"как приедешь пиши,погуляем",neutral,neutral,neutral,neutral,neutral
+test,457,"Мария только что ответила на вопрос о тебе. Узнай, что она сказала! ",neutral,neutral,neutral,neutral,neutral
+test,458,Любишь ? ),neutral,neutral,neutral,neutral,neutral
+test,459,"и этууууууу))))
+Саша Саша Сашаааааааааааааааа)))))))))))где же ты)))меня кроет)",neutral,neutral,positive,positive,positive
+test,460,ну ставь давай!!!))),neutral,neutral,neutral,neutral,neutral
+test,461,Просьба прислать подтверждение на постановку в очередь - 3 человека - 2 взрослых и ребенок 10 лет,neutral,neutral,neutral,neutral,neutral
+test,462,и я фоткаца хочу :),positive,neutral,positive,neutral,neutral
+test,463,"Теперь живу в отрадном, скоро буду раздавать приглашения на новоселье...",neutral,neutral,neutral,neutral,neutral
+test,464,пора вылазить из песочницы и делать серьёзные вещи ;),neutral,neutral,neutral,neutral,neutral
+test,465,"
+Высоцкий с нами! Враг не пройдет!!",neutral,neutral,neutral,neutral,neutral
+test,466,"Новый год на носу, а старый на работе всё не кончается((",negative,neutral,neutral,negative,negative
+test,467,Вчера был очень дорогой мне день:))))Я запомню эту дату на всю жизнь:)))),positive,neutral,positive,positive,positive
+test,468,что такое не пойму,neutral,neutral,neutral,neutral,neutral
+test,469,Кто круче и почему?,neutral,neutral,neutral,neutral,neutral
+test,470,Тварь ебучая,negative,neutral,negative,negative,negative
+test,471,Ну вот как то так)),neutral,neutral,neutral,neutral,neutral
+test,472,"У моей души сеанс порно...
+Что, кстати, за музака???",neutral,neutral,neutral,neutral,neutral
+test,473,"✨ГОГОЛЯ 34✨ 
+☎ 310 09 34 автозапчасти🔩📦🚘 
+📞 286 54 08 сервис 🔨🔧
+Ещё один мотор получит новую жизнь!
+Вы ещё стучите? Тогда мы идём к Вам! 🛠⚙
+Правильнее-приезжайте к Нам! 🤔",neutral,neutral,neutral,neutral,neutral
+test,474,"Незнакомец, прием!) хочу сказать очередное спасибо)) но, у меня просьба..не перематывай дверную ручку, она у нас итак уже раздолбана) цветы итак держатся и без него)))
+А с запиской не проканало, Надя созналась)))",neutral,neutral,positive,positive,positive
+test,475,Что у Вас нового?,neutral,neutral,neutral,neutral,neutral
+test,476,Охуеть бля! У нас снег выпал!!!,negative,neutral,negative,neutral,neutral
+test,477,"ведь у нас есть крепкая дружба, она навсегда",positive,neutral,positive,positive,neutral
+test,478,"Ахринеть, этому пидуру уже 19),",negative,neutral,neutral,neutral,neutral
+test,479,"Я просто так хочу тебя обнять 
+И помолчать с тобой о сокровенном,
+И наблюдать как будешь засыпать,
+Покуда кровь пульсирует по венам...
+Я просто так хочу тебя обнять,
+Почувствовать тепло и раствориться,
+Хочу твоею пристанью я стать,
+Где твой корабль может зацепиться!
+Я просто так хочу тебя обнять
+Водить так нежно пальцами по коже,
+Твоею тенью так хочу я стать,
+Чтоб каждый вдох пронизывал до дрожи!
+Я просто так хочу тебя обнять,
+И дать твоим сомненьям вновь сломиться,
+Я не умею высоко летать, 
+Но без тебя легко могу разбиться!",positive,neutral,positive,positive,positive
+test,480,куплю травмат писать в лс,neutral,neutral,neutral,neutral,neutral
+test,481,Песня Головы))),neutral,neutral,neutral,neutral,neutral
+test,482,"Кошмар...что это было, никак нашествие варваров на мою израненную временем и болью стену. Нда... люди, они неисправимы.",negative,neutral,neutral,negative,negative
+test,483,"Эмми первый раз грызет косточку,а не мои пальцы))",neutral,neutral,neutral,neutral,neutral
+test,484,"надо все предприятия забрать у олигархов,их всех пересадить,а предприятия отдать в гос. владения!вот это будет нормально.чтоб другим не было повадно,и деньги за границу не выходили!!!",neutral,neutral,neutral,negative,negative
+test,485,Малиновое наслаждение***,positive,neutral,neutral,positive,positive
+test,486,Премьер проводит консультации с губернаторами выборных регионов - Известия,neutral,neutral,neutral,neutral,neutral
+test,487,"Дата смерти: 2 Мая 2080г. в возрасте 90 лет. Причина: Решил отлить на оголенные провода, с напряжением 2000 Вольт...:(
+",neutral,neutral,neutral,neutral,neutral
+test,488,"Расстояние не помеха, если правда любишь... правда дорожишь этим человеком...",positive,neutral,neutral,positive,neutral
+test,489,"15. Случайно я встретила его в супермаркете. Zufällig ich ihm im Supermarkt . (zufällig – случайно) Пишу через habe. Но выдает ошибку! В чем проблема, подскажите!!!!!!!!",neutral,neutral,neutral,neutral,neutral
+test,490,#САЦЕПДУС на Южной Демерджи. Надо бы продолжить его путешествия :),neutral,neutral,neutral,neutral,neutral
+test,491,"Фест прошел,впечатления самые позитивные,дождь нам не помеха.",positive,neutral,neutral,positive,positive
+test,492,короче ваня брусникин отчалил в таганрог,neutral,neutral,neutral,neutral,neutral
+test,493,"В большинстве болезней виноваты не природа и не общество, а сам человек.И чаще всего он болеет от лени, жадности и неразумности
+Н.Амосов",neutral,neutral,neutral,neutral,neutral
+test,494,"При таком раскладе, ждем голов от Нойера.",neutral,neutral,neutral,neutral,neutral
+test,495,"Раф, прости, бро .... Но я должен это запилить :DDDDD",neutral,neutral,neutral,neutral,neutral
+test,496,меня надо усыпить О_О,negative,neutral,neutral,negative,negative
+test,497,"Мне эта понравилась)
+ну....и концепция неплохая (ты знаешь о чем я)",positive,neutral,neutral,positive,positive
+test,498,"Если парню действительно нужна девушка, то он горы свернет, чтобы каждый день видеть её улыбку и слышать её смех.
+
+Остальное - пустые слова👌",neutral,neutral,neutral,neutral,neutral
+test,499,Обязательно послушай,neutral,neutral,neutral,neutral,neutral
+test,500,"[ :-} За тебя Калым отдам, но пятёру не продам [ :-}",neutral,neutral,neutral,neutral,neutral
+stress,1,"Не жалею, что купила этот телефон: работает отлично.",positive,neutral,neutral,positive,positive
+stress,2,"Совсем не плохой фильм, я приятно удивлена.",positive,neutral,neutral,positive,positive
+stress,3,Не могу не похвалить доставку: привезли вовремя.,positive,neutral,neutral,positive,positive
+stress,4,"Я не разочарована поездкой, всё понравилось.",positive,neutral,neutral,positive,positive
+stress,5,"Ничего плохого о кафе сказать не могу, было вкусно.",positive,neutral,neutral,positive,positive
+stress,6,"Это не просто удобно, это очень удобно.",positive,neutral,positive,positive,positive
+stress,7,"Не думала, что будет так хорошо, спасибо!",positive,neutral,positive,positive,positive
+stress,8,Этот ноутбук меня совсем не радует.,negative,neutral,negative,negative,negative
+stress,9,Нельзя назвать обслуживание хорошим: нас игнорировали.,negative,neutral,neutral,negative,negative
+stress,10,Больше не хочу сюда возвращаться.,negative,neutral,positive,negative,negative
+stress,11,"Не получила ни удовольствия, ни обещанного результата.",negative,neutral,neutral,negative,negative
+stress,12,"Никакой радости от покупки, только проблемы.",negative,neutral,neutral,negative,negative
+stress,13,Я не довольна качеством этих наушников.,negative,neutral,neutral,negative,negative
+stress,14,Не советую этот отель: в комнате грязно.,negative,neutral,neutral,negative,negative
+stress,15,Сегодня библиотека не работает.,neutral,neutral,neutral,neutral,neutral
+stress,16,"Я не заказывала доставку, забрала товар сама.",neutral,neutral,neutral,neutral,neutral
+stress,17,В расписании нет занятий на пятницу.,neutral,neutral,neutral,neutral,neutral
+stress,18,Не все участники пришли на встречу.,neutral,neutral,neutral,neutral,neutral
+stress,19,"Документ не подписан, его отправили на согласование.",neutral,neutral,neutral,neutral,neutral
+stress,20,"Это не автобус, а троллейбус.",neutral,neutral,neutral,neutral,neutral
+stress,21,"Спасиба за быструю даставку, всё супер!",positive,neutral,neutral,positive,positive
+stress,22,"Очень панравился концерт, хочу ещё!",positive,neutral,positive,positive,positive
+stress,23,"Класный телефон, батарея держит долго.",positive,neutral,positive,positive,positive
+stress,24,"Прекрасный сервес, помогли за пять минут.",positive,neutral,neutral,positive,positive
+stress,25,Я в восторги от этой книги!,positive,neutral,neutral,positive,positive
+stress,26,"Вкуснейший завтрок, обязательно вернусь.",positive,neutral,neutral,positive,positive
+stress,27,"Удобная преложуха, теперь всё делаю быстрее.",positive,neutral,positive,positive,positive
+stress,28,"Ужасный сервес, никто не отвечает.",negative,neutral,neutral,negative,negative
+stress,29,"Пакупка разачаровала, деньги на ветер.",negative,neutral,neutral,negative,negative
+stress,30,"Даставка апаздала на три дня, бесит.",negative,neutral,neutral,negative,negative
+stress,31,"Качество атвратительное, всё развалилось.",negative,neutral,neutral,negative,negative
+stress,32,Невкусная еда и грубый афициант.,negative,neutral,neutral,negative,negative
+stress,33,"Не панравился фильм, скукатень.",negative,neutral,neutral,negative,negative
+stress,34,"Преложение пастоянно вылетает, невозможно работать.",negative,neutral,neutral,negative,negative
+stress,35,Севодня встреча в три часа.,neutral,neutral,neutral,neutral,neutral
+stress,36,Пасылка находится на склади.,neutral,neutral,neutral,neutral,neutral
+stress,37,Адрес магазина указан на страници.,neutral,neutral,neutral,neutral,neutral
+stress,38,В расписани два занятия.,neutral,neutral,positive,neutral,neutral
+stress,39,Завтра атправлю документы по почте.,neutral,neutral,neutral,neutral,neutral
+stress,40,На столе лежит синяя тетратка.,neutral,neutral,neutral,neutral,neutral
+stress,41,"Ну конечно, сломаться в первый день — именно этого я ждала от нового чайника.",negative,neutral,neutral,negative,negative
+stress,42,Шикарная доставка: всего-то неделю вместо двух часов.,negative,neutral,neutral,negative,negative
+stress,43,"Отличный сервис, особенно сорок минут музыки вместо ответа оператора.",negative,neutral,neutral,negative,negative
+stress,44,Спасибо за незабываемый ужин: отравление точно не забуду.,negative,neutral,positive,negative,negative
+stress,45,"Вот это скорость! Страница открылась, пока я успела сварить обед.",negative,neutral,neutral,negative,negative
+stress,46,"Замечательный отель, тараканы даже встретили у двери.",negative,neutral,positive,negative,negative
+stress,47,Просто мечта: заплатить за билет и остаться без места.,negative,neutral,neutral,negative,negative
+stress,48,Гениальное обновление — теперь не работает вообще ничего.,negative,neutral,negative,negative,negative
+stress,49,Какая забота о клиентах: отменить заказ и никому не сообщить.,negative,neutral,neutral,negative,negative
+stress,50,Прекрасное начало отпуска — потерянный багаж и ночь в аэропорту.,negative,neutral,neutral,negative,negative
+stress,51,"Ну ужас какой: обещали неделю, а починили за час. Приятно удивили!",positive,neutral,neutral,positive,positive
+stress,52,"Вот же проблема: десерт такой вкусный, что пришлось заказать второй.",positive,neutral,neutral,positive,positive
+stress,53,"Безобразие, новый диван настолько удобный, что вставать не хочется.",positive,neutral,neutral,positive,positive
+stress,54,"Коварный концерт: пришла на час, а счастливая осталась до конца.",positive,neutral,neutral,positive,positive
+stress,55,"Ну спасибо, теперь другие кофейни после вашего кофе не радуют!",positive,neutral,neutral,positive,positive
+stress,56,"Как теперь работать? От вашей выставки столько восторга, что думаю только о ней.",positive,neutral,neutral,positive,positive
+stress,57,Редактор попросил убрать иронию из второго абзаца.,neutral,neutral,neutral,neutral,neutral
+stress,58,На семинаре обсуждали иронию в заголовках газет.,neutral,neutral,neutral,neutral,neutral
+stress,59,В тексте слово «прекрасно» употреблено иронически.,neutral,neutral,neutral,neutral,neutral
+stress,60,Автор использовал иронию в реплике главного героя.,neutral,neutral,neutral,neutral,neutral
+stress,61,"Подруга сказала: «Ужасный фильм», а мне он очень понравился.",positive,neutral,positive,positive,positive
+stress,62,"В отзыве написали «невкусно», но мой ужин был отличным.",positive,neutral,positive,positive,positive
+stress,63,"Он назвал поездку «провальной», я же осталась в восторге.",positive,neutral,neutral,positive,positive
+stress,64,"Все вокруг твердили «скучная книга», а я читала с удовольствием.",positive,neutral,neutral,positive,positive
+stress,65,Фразу «зря потраченные деньги» не поддерживаю: покупкой довольна.,positive,neutral,neutral,positive,positive
+stress,66,"Сосед сказал «плохой мастер», но мне мастер помог прекрасно.",positive,neutral,neutral,positive,positive
+stress,67,"На сайте обещали «прекрасный отдых», а я только разочаровалась.",negative,neutral,neutral,negative,negative
+stress,68,"Коллега сказал: «Отличный сервис», но меня здесь обслужили ужасно.",negative,neutral,positive,negative,negative
+stress,69,Рекламное «очень удобно» звучит смешно: пользоваться невозможно.,negative,neutral,positive,negative,negative
+stress,70,"В описании написано «вкуснейшая пицца», но она была холодной и отвратительной.",negative,neutral,positive,negative,negative
+stress,71,"Мне советовали «шедевр», а фильм оказался невероятно скучным.",negative,neutral,neutral,negative,negative
+stress,72,"Продавец уверял «надёжная вещь», но она сломалась через день, я злюсь.",negative,neutral,positive,negative,negative
+stress,73,В статье приведена цитата: «Я счастлив».,neutral,neutral,neutral,neutral,neutral
+stress,74,На плакате написано: «Лучший кофе в городе».,neutral,neutral,neutral,neutral,neutral
+stress,75,"Он произнёс: «Мне не нравится этот фильм», и вышел из комнаты.",neutral,neutral,neutral,neutral,neutral
+stress,76,В анкете есть варианты «доволен» и «недоволен».,neutral,neutral,neutral,neutral,neutral
+stress,77,В протокол записали слова участника: «Это ужасно».,neutral,neutral,neutral,neutral,neutral
+stress,78,Название главы — «Прекрасный день».,neutral,neutral,neutral,neutral,neutral
+stress,79,Учитель попросил перевести фразу «I hate rain».,neutral,neutral,neutral,neutral,neutral
+stress,80,В сообщении было написано: «Спасибо за отличный вечер».,neutral,neutral,positive,neutral,neutral
+stress,81,"Доставка задержалась, зато сам телефон отличный, покупкой довольна.",positive,neutral,positive,positive,positive
+stress,82,"В кафе шумно, но еда настолько вкусная, что обязательно вернусь.",positive,neutral,neutral,positive,positive
+stress,83,"Начало фильма скучное, зато финал впечатлил; в целом понравилось.",positive,neutral,neutral,positive,positive
+stress,84,"Номер маленький, но чистый и уютный, отдых удался.",positive,neutral,positive,positive,positive
+stress,85,"Цена высокая, однако качество прекрасное, о покупке не жалею.",positive,neutral,neutral,positive,positive
+stress,86,"Интерфейс непривычный, но приложение экономит мне много времени, нравится.",positive,neutral,neutral,positive,positive
+stress,87,"Дорога была тяжёлой, зато сама поездка чудесная.",positive,neutral,neutral,positive,positive
+stress,88,"Экран хороший, но телефон постоянно выключается, покупкой недовольна.",negative,neutral,positive,negative,negative
+stress,89,"Еда вкусная, однако хамство персонала испортило весь вечер.",negative,neutral,positive,negative,negative
+stress,90,"Актёры отличные, но сюжет настолько слабый, что фильм разочаровал.",negative,neutral,neutral,negative,negative
+stress,91,"Номер просторный, но грязь и запах сделали отдых неприятным.",negative,neutral,neutral,negative,negative
+stress,92,"Цена низкая, зато вещь развалилась сразу; больше не куплю.",negative,neutral,neutral,negative,negative
+stress,93,"Приложение красивое, но теряет данные, пользоваться им не хочу.",negative,neutral,positive,negative,negative
+stress,94,"Пейзажи прекрасные, но организация поездки ужасная, впечатление испорчено.",negative,neutral,positive,negative,negative
+stress,95,"Кофе вкусный, а десерт невкусный; общее впечатление ни хорошее, ни плохое.",neutral,neutral,neutral,neutral,neutral
+stress,96,"Одна половина спектакля понравилась, другая разочаровала; в целом никак.",neutral,neutral,neutral,neutral,neutral
+stress,97,"Телефон удобный, но батарея слабая; плюсы и минусы для меня равны.",neutral,neutral,neutral,neutral,neutral
+stress,98,"В отеле хороший вид и плохая шумоизоляция, итоговая оценка средняя.",neutral,neutral,positive,neutral,neutral
+stress,99,"Книга местами интересная, местами скучная; особых эмоций не осталось.",neutral,neutral,neutral,neutral,neutral
+stress,100,"Доставили быстро, но упаковка помялась; отношусь к заказу нейтрально.",neutral,neutral,neutral,neutral,neutral
